@@ -11,7 +11,7 @@ int main() {
         int minutesPurchased;
         int minutesParked;
     } testCases[] = {
-        {60, 45},  // No parking violation
+        {60, 45},  // No parking violation.
         {60, 65},  // $25 fine
         {60, 120}, // $25 fine
         {60, 150}, // $35 fine
